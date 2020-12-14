@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    height: 100vh;
+    background-color: #FFE5D2;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+#webcam {
+    display: none; 
+    width: 100vw;
+    margin: 0 auto;
+}
